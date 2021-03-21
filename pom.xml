@@ -16,7 +16,7 @@
 	</parent>
 	<groupId>com.devsdayoff</groupId>
 	<artifactId>hea-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>hea-pet-clinic</name>
 	<description>Pet Clinic Project by SFG</description>
 	<properties>
@@ -83,7 +83,7 @@
 <!--	  <tag>hea-pet-clinic-0.0.1</tag>-->
 <!--		<url>https://github.com/(username)/(repo)</url>-->
 <!--		<connection>scm:git:https://github.com/(username)/(repo).git</connection>-->
-    <tag>hea-pet-clinic-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
