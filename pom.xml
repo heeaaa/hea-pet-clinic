@@ -80,7 +80,9 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:heeaaa/hea-pet-clinic.git</developerConnection>
-	  <tag>hea-pet-clinic-0.0.1</tag>
+<!--	  <tag>hea-pet-clinic-0.0.1</tag>-->
+<!--		<url>https://github.com/(username)/(repo)</url>-->
+<!--		<connection>scm:git:https://github.com/(username)/(repo).git</connection>-->
   </scm>
 
 </project>
