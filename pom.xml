@@ -43,6 +43,7 @@
 				<version>2.5.3</version>
 				<configuration>
 					<goals>install</goals>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
 			</plugin>
 		</plugins>
@@ -80,9 +81,6 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:heeaaa/hea-pet-clinic.git</developerConnection>
-<!--	  <tag>hea-pet-clinic-0.0.1</tag>-->
-<!--		<url>https://github.com/(username)/(repo)</url>-->
-<!--		<connection>scm:git:https://github.com/(username)/(repo).git</connection>-->
     <tag>HEAD</tag>
   </scm>
 
