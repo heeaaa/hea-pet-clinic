@@ -79,7 +79,7 @@
 	</pluginRepositories>
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/heeaaa/hea-pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:heeaaa/hea-pet-clinic.git</developerConnection>
 	  <tag>hea-pet-clinic-0.0.1</tag>
   </scm>
 
