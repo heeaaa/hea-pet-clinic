@@ -23,23 +23,23 @@ public class DataLoader implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         Owner owner1 = new Owner();
-        owner1.setFirstName("Hanna");
-        owner1.setLastName("Abejo");
+        owner1.setFirstName("Sakura");
+        owner1.setLastName("Haruno");
         ownerService.save(owner1);
 
         Owner owner2 = new Owner();
-        owner2.setFirstName("Harold");
-        owner2.setLastName("Abejo");
+        owner2.setFirstName("Ino");
+        owner2.setLastName("Yamanaka");
         ownerService.save(owner2);
 
         Owner owner3 = new Owner();
-        owner3.setFirstName("Hardy");
-        owner3.setLastName("Abejo");
+        owner3.setFirstName("Itachi");
+        owner3.setLastName("Uchiha");
         ownerService.save(owner3);
 
         Owner owner4 = new Owner();
-        owner4.setFirstName("Roxan");
-        owner4.setLastName("Abejo");
+        owner4.setFirstName("Sasuke");
+        owner4.setLastName("Uchiha");
         ownerService.save(owner4);
 
         System.out.println("Loaded Owners...");
